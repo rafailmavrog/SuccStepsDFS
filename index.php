@@ -22,6 +22,12 @@ class SuccStepsDFS{
     </form>
 
 ADMIN_FORM;
+
+   private function create_customer(){
+       
+
+
+   }
 }
 
 
