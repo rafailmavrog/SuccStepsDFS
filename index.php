@@ -15,7 +15,6 @@ header("location: profile.php");
 <div id="main">
 <h1>Administrator Login</h1>
 <div id="login">
-<h2>Login Form</h2>
 <form action="" method="post">
 <label>UserName :</label>
 <input id="name" name="username" placeholder="username" type="text">
